@@ -1,0 +1,4 @@
+this is first file from lyp in system linux
+hope success
+这里可以输入中文，$vi [文件名]即可对以编辑的文件进行修改
+hhhhhhh
