@@ -1,2 +1,0 @@
-insert some word
-test to delete this file in git
